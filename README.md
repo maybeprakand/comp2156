@@ -1,1 +1,1 @@
-#### COMP2156 - Developer Operations
+Comp2156 Developer Operators
